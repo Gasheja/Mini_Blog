@@ -115,7 +115,7 @@ Output will be in dist/.
 
 - PostCSS + Autoprefixer enhance browser compatibility.
 
-Avoided CSS Modules and Styled-Components to reduce overhead.
+- Avoided CSS Modules and Styled-Components to reduce overhead.
 ---
 ## 🧰 Optimization Strategies
 - ✅ React.memo on <Post /> ➔ avoids unnecessary re-renders.
