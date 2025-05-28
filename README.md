@@ -178,7 +178,8 @@ dev-insights-blog/
 ├── postcss.config.js
 └── package.json
 ```
-#📬 Contact
+#📬 **Contact**
+
 E-mail: m.gasheja@alustudent.com
 
 
