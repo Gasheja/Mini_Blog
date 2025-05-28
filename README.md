@@ -28,5 +28,13 @@
 - **npm:** Version `7+`
 
 ---
+## **🚀 Installation**
+---
+**1⃣ Clone the Repository**
+```
+git clone https://github.com/your-username/dev-insights-blog.git
+cd dev-insights-blog
+---
+**2⃣ Install Dependencies**
 
 
