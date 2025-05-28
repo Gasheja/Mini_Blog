@@ -91,7 +91,7 @@ Open http://localhost:5173 in your browser.
 
 Open DevTools → Console
 
-Confirm: PostList mounted appears on load
+Confirm:PostList mounted appears on load
 ---
 # 🏗️ **Build for Production**
 ```
@@ -101,6 +101,7 @@ Output will be in dist/.
 ---
 # 🧠 **Design Choices**
 ##🧬 Component Type
+
 ✅ Functional Components used throughout.
 
 ⚙️ Powered by React Hooks (e.g., useEffect in withLogger.tsx).
