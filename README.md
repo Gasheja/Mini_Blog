@@ -67,7 +67,7 @@ export default {
 @tailwind utilities;
 ```
 # 🧪 **Running the Application**
-## **Start Dev Server**
+**Start Dev Server**
 ```
 npm run dev
 ```
@@ -100,7 +100,7 @@ npm run build
 Output will be in dist/.
 ---
 # 🧠 **Design Choices**
-##🧬 Component Type
+##🧬 **Component Type**
 
 ✅ Functional Components used throughout.
 
