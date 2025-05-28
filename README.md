@@ -75,17 +75,17 @@ Open http://localhost:5173 in your browser.
 ---
 # ✅ **Testing the Application**
 ## Layout Checks
-## Header: Blue background (bg-blue-600), white "Dev Insights", "New Post" link (hover underline).
+**Header:** Blue background (bg-blue-600), white "Dev Insights", "New Post" link (hover underline).
 
-## Page: Light gray background (bg-gray-100).
+**Page:** Light gray background (bg-gray-100).
 
 ## Posts:
 
-## **Alice Smith:** bg-blue-50
+**Alice Smith:** bg-blue-50
 
-## **Others:** bg-white
+**Others:** bg-white
 
-## **Recent post:** Green "New!" badge (bg-green-500).
+**Recent post:** Green "New!" badge (bg-green-500).
 
 ## Console Log Check
 
